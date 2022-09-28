@@ -41,3 +41,5 @@ let text: "jeden" | "druhy";
 //alias
 type Combinable = number | string | any;
 const input3: Combinable = "text";
+
+let dontKnow: unknown;
